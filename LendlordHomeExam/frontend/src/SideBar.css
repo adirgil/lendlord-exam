@@ -1,0 +1,34 @@
+.input-wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0;
+}
+
+.MuiInputBase-root {
+    width: 200px;
+    background: #fff;
+}
+
+.drawer > div{
+    width: 30%;
+    background-color: gray;
+}
+
+.form{
+    padding: 1.3rem;
+}
+
+.sideBarHeader{
+    display: flex;
+}
+
+.btnsDiv {
+    width: 75%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.doneBtn {
+    background-color: #FF8C00;
+    color: white;
+}
